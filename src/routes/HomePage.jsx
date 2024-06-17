@@ -49,6 +49,8 @@ const HomePage = () => {
   };
   // 태그를 눌렀을 때는 searchValue만 바뀜
 
+  console.log(getCookie("access_token"));
+
   return (
     <div>
       <div className="flex flex-col justify-center items-center mb-5">
