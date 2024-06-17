@@ -6,7 +6,7 @@
     },
     {
       "source": "/api/:path*/",
-      "destination": "https://django-seminar-taehyeong-week11-hw.fly.dev/api/:path*"
+      "destination": "https://django-seminar-taehyeong-week11-hw.fly.dev/api/:path*/"
     }
   ]
 }
