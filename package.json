@@ -41,5 +41,5 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   },
-  "proxy": "https://django-seminar-taehyeong-week11-hw.fly.dev/api/:path*"
+  "proxy": "https://django-seminar-taehyeong-week11-hw.fly.dev/"
 }
